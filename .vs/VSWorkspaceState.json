@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app\\controllers",
+    "\\app\\views",
+    "\\app\\views\\books",
+    "\\app\\views\\main",
+    "\\config"
+  ],
+  "SelectedNode": "\\config\\database.yml",
+  "PreviewInSolutionExplorer": false
+}
